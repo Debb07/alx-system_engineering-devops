@@ -1,1 +1,1 @@
-Adds execute permission to all subdirectories
+Creates a diectory
