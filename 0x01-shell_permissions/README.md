@@ -1,1 +1,1 @@
-Adds execution permission to all users
+Sets permission to a file
