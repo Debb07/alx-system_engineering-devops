@@ -1,1 +1,1 @@
-Creates a diectory
+Changes group owner
