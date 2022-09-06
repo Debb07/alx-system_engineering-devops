@@ -15,3 +15,4 @@ Prints a number with two decimal places
 Converts base 10 to base 16
 encodes and decodes
 Prints every line
+Add two numbers stored in env
