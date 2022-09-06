@@ -8,3 +8,4 @@ Create file name
 Writes into file
 A script that duplicates
 Deletes regular files
+Counts number of directories
