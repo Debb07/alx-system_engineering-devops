@@ -6,3 +6,4 @@ Display the first 10 lines
 Display third line
 Create file name
 Writes into file
+A script that duplicates
