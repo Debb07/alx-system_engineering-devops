@@ -5,3 +5,4 @@ counts number of directories
 Lists environment variables
 Lists local variables
 New local variable
+New global variable
