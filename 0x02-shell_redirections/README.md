@@ -7,3 +7,4 @@ Display third line
 Create file name
 Writes into file
 A script that duplicates
+Deletes regular files
