@@ -13,3 +13,4 @@ Displays 10 newest files
 Takes input
 Display lines containing patterns
 Lines and pattern
+Display patterns
