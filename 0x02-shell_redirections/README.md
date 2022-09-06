@@ -9,3 +9,4 @@ Writes into file
 A script that duplicates
 Deletes regular files
 Counts number of directories
+Displays 10 newest files
