@@ -11,3 +11,4 @@ Prints result
 Display result
 Converts base 2 to 10
 Prints all possible combinations
+Prints a number with two decimal places
