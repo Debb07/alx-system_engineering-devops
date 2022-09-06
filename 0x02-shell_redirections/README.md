@@ -14,3 +14,4 @@ Takes input
 Display lines containing patterns
 Lines and pattern
 Display patterns
+Display all lines in file
