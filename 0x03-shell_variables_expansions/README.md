@@ -8,3 +8,4 @@ New local variable
 New global variable
 Prints result
 Prints result
+Display result
